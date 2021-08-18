@@ -41,20 +41,23 @@ git clone
     Task 3.1 -> Inicio da Historia 3
         git pull
         git add .
-        git commit -m "Adicao do setor do Leandro Vasconcelos Reis"
+        git commit -m "Adicao do setor do Leandro Vasconcelos Reis 3.1"
 
+    Task 3.3 -> Adicionar o Jason
+        git pull
+        git add .
+        git commit -m "Adicao do prof Jason - 3.3"
 
 * Dev 2
 git clone
     Task 1.2 -> Título em negrito
     git add .
-    git commit -m "Título em negrito 1.2"
+    git commit -m "Título em negrito"
     git push origin desenvolvimento
 
     Task 2.2 -> Adicionado imagem da Malga
-    git pull
     git add .
-    git commit -m "Adicionado imagem da Malga 2.2"
+    git commit -m "Adicionado imagem da Malga"
     git push origin desenvolvimento
 
     Task 3.2 -> Adicionar Linkedin
@@ -62,8 +65,6 @@ git clone
     git add .
     git commit -m "Adicionado Linkedin 3.2"
     git push origin desenvolvimento
-
-
 
 
 
