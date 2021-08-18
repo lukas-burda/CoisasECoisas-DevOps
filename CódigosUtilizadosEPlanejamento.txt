@@ -64,7 +64,7 @@ git clone
     git commit -m "Título em negrito"
     git push origin desenvolvimento
 
-    Task 2.2 -> Adicionado imagem da Malga
+    Task 2.2 -> Adicionar imagem da Malga
     git add .
     git commit -m "Adicionado imagem da Malga"
     git push origin desenvolvimento
@@ -75,6 +75,8 @@ git clone
     git commit -m "Adicionado Linkedin 3.2"
     git push origin desenvolvimento
 
-
-
-
+    Task 4.2 -> Honrar os prestadores da homenagem
+    git pull
+    git add .
+    git commit -m "Adicionado os prestadores da homenagem"
+    git push origin desenvolvimento
