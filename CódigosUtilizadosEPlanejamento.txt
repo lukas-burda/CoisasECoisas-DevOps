@@ -80,3 +80,9 @@ git clone
     git add .
     git commit -m "Adicionado os prestadores da homenagem"
     git push origin desenvolvimento
+    
+    ___________________________________________
+    Lukas Burda Ferreira RGM 13017179
+    Matheus Dijan RGM 12985228
+    Vinicius Fernandes RGM 12932868
+    
