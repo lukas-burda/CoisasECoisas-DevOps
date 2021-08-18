@@ -38,6 +38,11 @@ git clone
         git add .
         git commit -m "Adicao do texto da Malga Costa"
 
+    Task 3.1 -> Inicio da Historia 3
+        git pull
+        git add .
+        git commit -m "Adicao do setor do Leandro Vasconcelos Reis"
+
 
 * Dev 2
 git clone
