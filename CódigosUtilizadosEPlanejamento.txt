@@ -30,7 +30,10 @@ git clone
 
 * Dev 2
 git clone
-
+    Task 1.2 -> Título em negrito
+    git add .
+    git commit -m "Título em negrito"
+    git push origin desenvolvimento
 
 
 
