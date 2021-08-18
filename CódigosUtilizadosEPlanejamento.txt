@@ -29,6 +29,9 @@ git clone
     Task 1.3 -> Adicao da foto do Escobar
         git pull
         auto-merge da 1.2 com a 1.3 na branch de desenvolvimento
+        git add index.html 
+        git commit -m "Final da Historia 1"
+        git push 
 
 
 * Dev 2
