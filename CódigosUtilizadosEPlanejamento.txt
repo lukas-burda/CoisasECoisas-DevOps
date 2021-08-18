@@ -32,6 +32,11 @@ git clone
         git add index.html 
         git commit -m "Final da Historia 1"
         git push 
+    
+    Task 2.1 -> Inicio da Historia 2
+        git pull
+        git add .
+        git commit -m "Adicao do texto da Malga Costa"
 
 
 * Dev 2
