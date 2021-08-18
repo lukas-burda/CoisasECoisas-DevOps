@@ -1,0 +1,33 @@
+* Planejamento
+
+Cada DEV subirá o seu código na branch de desenvolvimento da versão através e o responsável irá homologar para entrar em produção.
+
+----------------
+* DevOps
+git init
+git remote add origin https://github.com/lukas-burda/CoisasECoisas-DevOps.git
+
+git checkout -b producao
+cat > readme.md "Essa é a branch de producao."
+git add readme.md
+git commit -m "Criacao da branch de producao"
+git push origin producao
+
+checkout -b desenvolvimento
+cat > readme.md "Essa é a branch de desenvolvimento."
+git add readme.md
+git commit -m "Criacao da branch de desenvolvimento"
+git push origin desenvolvimento
+
+* Dev 1 
+git clone
+
+* Dev 2
+git clone
+
+
+
+
+
+
+
